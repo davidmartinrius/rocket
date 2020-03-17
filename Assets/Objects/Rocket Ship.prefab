@@ -256,7 +256,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rcsThrust: 140
-  mainThrust: 6
+  mainThrust: 200
+  levelLoadDelay: 2
   mainEngine: {fileID: 8300000, guid: 151ed837c0d782641bcd4c032aad59d3, type: 3}
   success: {fileID: 8300000, guid: 1c3679367c197064e8788386057f860b, type: 3}
   death: {fileID: 8300000, guid: a0d128051bbb59e49b1ba76086995140, type: 3}
