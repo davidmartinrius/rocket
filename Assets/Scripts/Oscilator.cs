@@ -24,7 +24,7 @@ public class Oscilator : MonoBehaviour
     void Update()
     {
         if (period <= Mathf.Epsilon)
-        { 
+        {
             return;
         }
 
